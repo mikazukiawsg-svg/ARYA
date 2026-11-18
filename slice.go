@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	nama := []string{"Seele", "Serval Landau", "Firefly", "Fugue", "Hysilens", "Jane Doe", "Sigrid De La`Azur"}
+	nama := []string{"Seele", "Serval Landau", "Firefly", "Fugue", "Hysilens", "Jane Doe", "Sigrid De La`Azur", "Seloria"}
 
 	fmt.Println(nama[0])
 	fmt.Println(nama[1])
@@ -12,4 +12,5 @@ func main() {
 	fmt.Println(nama[4])
 	fmt.Println(nama[5])
 	fmt.Println(nama[6])
+	fmt.Println(nama[7])
 }
