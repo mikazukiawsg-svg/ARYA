@@ -1,0 +1,9 @@
+
+# Ignore executable files
+*.exe
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
